@@ -1,5 +1,4 @@
 # FINAL PROJECT: "PANG!"
-## Implementation
 1. the character is located at the bottom of the screen, it can only move left and right.
 2. pressed spacebar, the character shoots the weapon.
 3. at the start, one big ball appears.
