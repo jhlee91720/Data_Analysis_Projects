@@ -8,5 +8,3 @@
 6. when any of the balls touches the character, game over.
 7. game time = 100
 8. FPS = 30
-
-## Result
